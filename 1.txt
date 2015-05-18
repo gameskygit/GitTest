@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 zczczcsadasdada
-=======
 1111111111111
->>>>>>> master
+
